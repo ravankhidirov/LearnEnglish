@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "125428549712",
+    "project_id": "learnenglish-afc17",
+    "storage_bucket": "learnenglish-afc17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:125428549712:android:9aa1705b05a86ebc69a955",
+        "android_client_info": {
+          "package_name": "com.example.learnenglish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "125428549712-15mg7fpdpkucjbtn06o3ctoas56aeulk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6JmqbTL-xBzXs0oZtKYj0xhTETWFtCbg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "125428549712-15mg7fpdpkucjbtn06o3ctoas56aeulk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
